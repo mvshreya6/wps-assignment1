@@ -1,0 +1,18 @@
+.about-section {
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-image: url('https://i.imgur.com/yGmrlyg.jpg');
+    background-size: cover;
+    font-size:medium;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+  }
+ .name {
+    color: #e2f153;
+    font-size:xx-large;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight:bolder;
+ }
+
+  
