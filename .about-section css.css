@@ -14,5 +14,18 @@
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
     font-weight:bolder;
  }
+ 
+.introduction-section{
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
 
-  
+.introduction-section > p {
+    color: #1d1d1a;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.05em;
+}
+
